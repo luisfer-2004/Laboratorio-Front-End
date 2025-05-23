@@ -110,3 +110,17 @@ footer {
     width: 90%;
   }
 }
+
+/* Login específico */
+form#loginForm {
+  background-color: #fff;
+  padding: 25px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Estilo para mensajes de error */
+#mensaje-error {
+  margin-top: 10px;
+  font-weight: bold;
+}
